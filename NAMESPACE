@@ -1,0 +1,5 @@
+export(dlp_rw)
+export(dlp_rw_normalize)
+export(dlp_rw_weights)
+export(dlp_rw_scores)
+importFrom(stats,setNames)

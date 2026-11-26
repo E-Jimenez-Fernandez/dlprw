@@ -1,0 +1,7 @@
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+*.Rcheck/
+*.tar.gz
+reproduction/R_results/

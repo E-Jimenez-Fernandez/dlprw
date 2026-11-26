@@ -1,0 +1,15 @@
+Package: dlprw
+Type: Package
+Title: Permutation-Averaged Redundancy Weighting for Composite Indicators
+Version: 0.1.0
+Authors@R: person("Eduardo", "Jiménez-Fernández", email = "edjimfer@ugr.es",
+    role = c("aut", "cre"))
+Description: Computes composite indicators using weighted lattice norms
+    and permutation-averaged linear redundancy corrections inspired by
+    the DP2 methodology. Supports exact subset averaging, polarity-based
+    normalization, multiple norm parameters, and ordinal comparisons.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.0.0)
+Imports: stats, utils
+NeedsCompilation: no
